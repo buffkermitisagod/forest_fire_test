@@ -111,3 +111,6 @@ def run(ma):
         ma = proc_map(ma)
         print_map(ma)
         time.sleep(2)
+
+if "__main__" == __main__:
+    run()
